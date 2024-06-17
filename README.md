@@ -1,1 +1,6 @@
-## This repository contains my solutions for the Codewars.com kata
+## This repository contains my solutions for the following Codewars.com katas:
+
+- [Equal to 24](equal_to_24.py)
+- [Snail sort](snail_list.py)
+- [All Balanced Parentheses](balanced_parentheses.py)
+
